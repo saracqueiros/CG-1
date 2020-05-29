@@ -1,9 +1,11 @@
 # CG-UM
 Graphical Computing @ UMinho
 
-## [Slides](slides)
-
-## [Pratice Exams](fichas)
+## Slides
+* [Curves and Surfaces](slides/bezier.pdf)
+* [Culling and Partitioning](slides/culling.pdf)
+* [Curves and Surfaces](slides/curvas_e_superficies.pdf)
+* [Lighting](slides/iluminacao.pdf)
 
 ## Pratical Classes
 * [TP01 - openGL Primitives](TP01)
