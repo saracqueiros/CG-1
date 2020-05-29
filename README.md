@@ -1,7 +1,11 @@
 # CG-UM
 Graphical Computing @ UMinho
 
-## Fichas
+## [Slides](slides)
+
+## [Pratice Exams](fichas)
+
+## Pratical Classes
 * [TP01 - openGL Primitives](TP01)
 * [TP02 - User Input](TP02)
 * [TP03 - Drawing a Cylinder](TP03)
