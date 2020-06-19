@@ -2,10 +2,11 @@
 Graphical Computing @ UMinho
 
 ## Slides
-* [Curves and Surfaces](slides/bezier.pdf)
 * [Culling and Partitioning](slides/culling.pdf)
+* [Curves and Surfaces](slides/bezier.pdf)
 * [Curves and Surfaces](slides/curvas_e_superficies.pdf)
 * [Lighting](slides/iluminacao.pdf)
+* [Texturing](slides/texturas.pdf)
 
 ## Pratical Classes
 * [TP01 - openGL Primitives](TP01)
